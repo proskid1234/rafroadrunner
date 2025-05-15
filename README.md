@@ -1,2 +1,1 @@
-# RafRoadRunner
-Your interactive study game.
+# RafRoadRunner\nThis is a custom study game built with Next.js.
