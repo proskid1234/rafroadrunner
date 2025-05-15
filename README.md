@@ -1,1 +1,2 @@
-# RafRoadRunner\nThis is a custom study game built with Next.js.
+# RaphRoadRunner
+A custom interactive study game with character voices and file-based quizzing.
